@@ -1,4 +1,4 @@
-This GitHub page contains supporting material for the paper titled 'Validation Dataset for Simulating  Hypersonic Glide Vehicles'
+This GitHub page contains supporting material for the paper titled 'Validation of Fast Prediction Methods Against Hypersonic Flight Data.'
 This paper will be presented at the 2024 Australasian Fluid Mechanics Conference.
 
 In this paper the numerical predictions of 3 numerical tools is compared against flight data from the SHEFFEX 2 flight. While multiple papers have been published on this flight experiment the data that is presented in this paper mainly comes out of one of the following papers:
